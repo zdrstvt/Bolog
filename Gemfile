@@ -73,7 +73,7 @@ gem 'rspec-rails', '~> 3.7'
 
 gem 'factory_bot_rails', '~> 4.11'
 
-gem 'webpacker'
+#gem 'webpacker'
 
 gem 'ransack'
 gem 'kaminari'
